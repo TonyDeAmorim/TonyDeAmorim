@@ -1,4 +1,4 @@
-#  Presentation, Tony De Amorim  
+ #  Presentation, Tony De Amorim  
 
 🎓 Master’s student in International Affairs and Development, majoring in Economics and pursuing the Advanced Quantitative Methods in Economics (AQME) certificate at [Université Paris-Dauphine PSL](https://dauphine.psl.eu). 
 📊 Interested in **macroeconomics, monetary policy, international trade, and econometrics**.  
@@ -33,5 +33,5 @@
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tony-de-amorim-756818257)  
-- 📧 tony.deamorim@example.com  
+- 💼 [LinkedIn](www.linkedin.com/in/tony-de-amorim-756818257)  
+- 📧 tony.de-amorim@dauphine.eu  
